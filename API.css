@@ -1,0 +1,20 @@
+#aba{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#card{
+    height: 250px;
+    width: 190px;
+    background-color: blueviolet;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+
+}
+
+.img{
+    height: 100px;
+}
